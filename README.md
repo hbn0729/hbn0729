@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌱 I’m currently learning llm+agent
+🌱 learn vibe coding
 
 <!--
 **hbn0729/hbn0729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
